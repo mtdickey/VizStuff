@@ -1,4 +1,4 @@
-### Visulization of TD passes from QB to receiver ###
+### Visualization of TD passes from QB to receiver ###
 
 ## Libraries
 library(ggplot2)
