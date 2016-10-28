@@ -1,8 +1,8 @@
-### Visulization of TD passes from player to player ###
+### Visualization of TD passes from QB to receiver ###
+
+## Libraries
 library(ggplot2)
-library(gridExtra)
 library(stringr)
-library(dplyr)
 library(plotly)
 
 # Datasets (source: pro-football-reference.com, Ex url: http://www.pro-football-reference.com/players/R/RivePh00/touchdowns/passing)#
@@ -62,7 +62,7 @@ All$together[which(All$Passer == "Ryan" & !(All$ReceiverLastName %in% c("Jones")
 All$together[which(All$Passer == "Romo" & (All$ReceiverLastName %in% c("Bryant", "Witten")))] <- "Yes"
 All$together[which(All$Passer == "Romo" & !(All$ReceiverLastName %in% c("Bryant", "Witten")))] <- "No"
 
-# Function to label only outliers
+# Function to label only outliers (Changed below to only label values >30 )
 is_outlier <- function(x) {
   return(x < quantile(x, 0.25) - 1.5 * IQR(x) | x > quantile(x, 0.75) + 1.5 * IQR(x))
 }
@@ -73,7 +73,7 @@ All$Passer[which(All$Passer == "Manning")] <- "P. Manning"
 All$PasserSort <- factor(All$Passer, levels = unique(All$Passer[order(All$TotalTDs, decreasing = T)]))
 
 ## Visualize
-viz <- All %>%
+(viz <- All %>%
   group_by(Passer) %>%
   mutate(outlier = ifelse(TotalTDs > 30, ReceiverLastName, as.numeric(NA))) %>%
   ggplot(aes(x=PasserSort, y=TotalTDs,  fill = PasserSort)) + 
@@ -82,7 +82,7 @@ viz <- All %>%
   scale_colour_discrete(l=40) +
   scale_fill_manual(values=c("#3182bd", "#b0e0e6", "#cfb53b", "#0D254C", "#006DB0", "#BD0D18", "#0D254C", "#203731", "#FB4F14")) +
   guides(fill = F) +
-  labs(x = "QB", y = "TDs Thrown to Receiver", title = "Dynamic Duos", colour = "Active Tandem")
+  labs(x = "QB", y = "TDs Thrown to Receiver", title = "Dynamic Duos", colour = "Active Tandem"))
 
 ## Interactive
 ggplotly(viz)
