@@ -9,4 +9,6 @@ Data visualizations of anything I can get my hands on.
    ![NFL QB/Receiver Tandems](Football/Tandem TDs/QBTandems.PNG)
    
  - 3/16/16: [NCAA Bracket Visualization (d3.js):](https://datacolumn.wordpress.ncsu.edu/blog/2016/03/16/students-take-on-march-machine-learning-mania/)
+ 
+   [Interactive](https://vida.io/documents/Ya5xhppozDH7Bt97W) - Credit to [PowerRank](http://thepowerrank.com/ncaa-tournament-predictions/) for source
    ![NCAA Bracket](march-madness.png)
