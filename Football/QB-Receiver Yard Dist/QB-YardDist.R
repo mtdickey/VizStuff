@@ -16,7 +16,7 @@ Plays <- Plays[-grep("Two Point Attempt: ", Plays$Detail),] # Get rid of extra t
 
 # Text Operations on "Detail" Column
 Plays$QB <- paste0(word(Plays$Detail,2), ", ", substr(word(Plays$Detail,1), 1, 1), ".")  # 51 Passers with Completions matches Pro-football-reference
-Plays$Receiver <- paste0(word(Plays$Detail,9), ", ", word(Plays$Detail,8)) # We have 381 people with receptions compared to their 378
+Plays$Receiver <- paste0(word(Plays$Detail,9), ", ", substr(word(Plays$Detail,8),1,1), ".") # We have 381 people with receptions compared to their 378
 
 ## 2 manual corrections
 Plays$Receiver[which(Plays$Detail == "Drew Brees pass complete middle to Mark Ingram for -1 yards (tackle by Vic Beasley)")] <- "Ingram, Mark"
@@ -40,27 +40,27 @@ Summary2$my_ranks[which(as.numeric(Summary2$my_ranks) >= 4)] <- "4+"
 Summary2$my_ranks <- as.factor(Summary2$my_ranks)
 
 temp <- Summary2 %>% group_by(QB) %>%
-  filter(min_rank(desc(Total)) <= 10) %>% group_by(QB, my_ranks) %>% summarise(Perc = sum(percent))
+  filter(min_rank(desc(Total)) <= 10) %>% group_by(QB, my_ranks) %>% summarise(Perc = sum(percent), Receiver = unique(Receiver)[1], Total = mean(Total))
+temp$Receiver <- as.character(temp$Receiver)
+temp$Receiver[which(temp$my_ranks == "4+")] <- paste0(temp$Receiver[which(temp$my_ranks == "4+")], " + Others")
+
 
 ## To control ordering by #1 receiver
 temp$QB <- as.character(temp$QB)
 temp$QBSort <-  factor(temp$QB, levels = unique(temp$QB[which(temp$my_ranks=="1")][order(temp$Perc[which(temp$my_ranks == "1")], decreasing = T)]))
-
-ggplot(temp, aes(x = QBSort, y = Perc, fill = my_ranks)) + geom_bar(stat = "identity") +
-  labs(title = "Receiver Distributions for Top 10 Yardage QBs", x = "QB", y = "Percent of Yards", fill = "Receiver Rank")
+temp$CumulativePercent <- round(temp$Perc*100, 3)
 
 ## Visualize
-(viz <- All %>%
-  group_by(Passer) %>%
-  mutate(outlier = ifelse(TotalTDs > 30, ReceiverLastName, as.numeric(NA))) %>%
-  ggplot(aes(x=PasserSort, y=TotalTDs,  fill = PasserSort)) + 
-  geom_violin(alpha = .8) + geom_boxplot(width=0.1, fill="white") + 
-  geom_text(aes(label = outlier, colour = factor(together)), na.rm = T, hjust = 1.1, size = 3.5) +
-  scale_colour_discrete(l=40) +
-  scale_fill_manual(values=c("#3182bd", "#AF1E2C", "#b0e0e6", "008E97", "#cfb53b", "#0D254C", "#00338D", "#3182bd",
-                             "#203731", "#006DB0", "#AF1E2C", "#BD0D18", "#0D254C", "#203731", "#FB4F14")) +
-  guides(fill = F) +
-  labs(x = "QB", y = "TDs Thrown to Receiver", title = "Dynamic Duos", colour = "Active Tandem"))
+ggplot(temp, aes(x = QBSort, y = CumulativePercent, fill = my_ranks, label = Receiver)) + geom_bar(stat = "identity") +
+  ggtitle(expression(atop("Proportion of Yards/Receiver for Top 10 Yardage QBs", atop(italic("2016 Season - Through Week 7"), "")))) +
+  labs(x = "QB", y = "Percent of Yards", fill = "Receiver Rank") +
+  theme(legend.title = element_text(size = 10))
+
+# Modifying so it interacts well with Plotly
+temp$QB <- temp$QBSort
+VizInt <- ggplot(temp, aes(x = QB, y = CumulativePercent, fill = my_ranks, label = Receiver)) + geom_bar(stat = "identity") +
+  labs(title = "Proportion of Yards/Receiver for Top 10 Yardage QBs", x = "QB", y = "Percent of Yards", fill = "WR Rank") +
+  theme(legend.title = element_text(size = 10))
 
 ## Interactive
-ggplotly(viz, tooltip = c("x","y", "label"))
+VizInt %>% ggplotly(tooltip = c("x", "y", "label"))
