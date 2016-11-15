@@ -1,0 +1,76 @@
+Demographic type,Demographic subgroup,Clinton,Trump,Other,Pct of Vote
+Total,Total vote,47.7,47.5,4.8,100
+Ideology,Liberals,84,10,6,26
+Ideology,Moderates,52,41,7,39
+Ideology,Conservatives,15,81,4,35
+Party,Democrats,89,9,2,37
+Party,Republicans,7,90,3,33
+Party,Independents,42,48,10,31
+Party by Gender,Democratic men,87,10,3,14
+Party by Gender,Democratic women,90,8,2,23
+Party by Gender,Republican men,6,90,2,17
+Party by Gender,Republican women,8,89,2,16
+Party by Gender,Independent men,37,51,10,17
+Party by Gender,Independent women,47,43,7,14
+Gender,Men,41,53,6,48
+Gender,Women,54,42,4,52
+Gender by marital status,Married men,37,58,5,29
+Gender by marital status,Married women,49,47,4,30
+Gender by marital status,Non-married men,46,45,9,19
+Gender by marital status,Non-married women,62,33,5,23
+Race/Ethnicity,White,37,58,5,70
+Race/Ethnicity,Black,88,8,4,12
+Race/Ethnicity,Asian,65,29,6,4
+Race/Ethnicity,Other,56,37,7,3
+Race/Ethnicity,Hispanic (of any race),65,29,6,11
+Gender by race/ethnicity,White men,31,63,5,34
+Gender by race/ethnicity,White women,43,53,3,37
+Gender by race/ethnicity,Black men,80,13,6,5
+Gender by race/ethnicity,Black women,94,4,2,7
+Gender by race/ethnicity,Latino men (of any race),62,33,4,5
+Gender by race/ethnicity,Latino women (of any race),68,26,5,6
+Gender by race/ethnicity,All other races,61,32,5,6
+Religion,Protestant,37,60,3,27
+Religion,Catholic,45,52,3,23
+Religion,Mormon,25,61,14,1
+Religion,Other Christian,43,55,2,24
+Religion,Jewish,71,24,5,3
+Religion,Other religion,58,33,9,7
+Religion,None,68,26,6,15
+Religious service attendance,Weekly or more,40,56,4,33
+Religious service attendance,Monthly,46,49,5,16
+Religious service attendance,A few times a year,48,47,5,29
+Religious service attendance,Never,62,31,7,22
+White evangelical or born-again Christian,White evangelical or born-again Christian,16,81,3,26
+White evangelical or born-again Christian,Everyone else,59,35,6,74
+Age,18-24 years old,56,35,9,10
+Age,25-29 years old,53,39,8,9
+Age,30-39 years old,51,40,9,17
+Age,40-49 years old,46,50,4,19
+Age,50-64 years old,44,53,3,30
+Age,65 and older,45,53,2,15
+Sexual orientation,LGBT,78,14,8,5
+Sexual orientation,Heterosexual,47,48,5,95
+First time voter,First time voter,56,40,4,10
+First time voter,Everyone else,47,47,6,90
+Education,High school or less,45,51,4,18
+Education,Some college education,43,52,5,32
+Education,College graduate,49,45,6,32
+Education,Postgraduate education,58,37,5,18
+Education by race/ethnicity,White college graduates,45,49,4,37
+Education by race/ethnicity,White no college degree,28,67,4,34
+Education by race/ethnicity,Non-white college graduates,71,23,5,13
+Education by race/ethnicity,Non-white no college degree,75,20,3,16
+Family income,"Under $30,000",53,41,6,17
+Family income,"$30,000-49,999",51,42,7,19
+Family income,"$50,000-99,999",46,50,4,31
+Family income,"$100,000-199,999",47,48,5,24
+Family income,"$200,000-249,999",48,49,3,4
+Family income,"Over $250,000",46,48,6,6
+Issue regarded as most important,Foreign policy,60,34,6,13
+Issue regarded as most important,Immigration,32,64,4,13
+Issue regarded as most important,Economy,52,42,6,52
+Issue regarded as most important,Terrorism,39,57,4,18
+Community size,"Cities (population 50,000 and above)",59,35,6,34
+Community size,Suburbs,45,50,5,49
+Community size,Rural areas,34,62,4,17
