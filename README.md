@@ -2,7 +2,7 @@
 A Gallery of Miscellaneous Visualizations (but mostly sports stuff)
 
 Data visualizations of anything I can get my hands on.
- - 11/15/16: [Election Demographics of 2016 vs. 2012](https://mtdickey.shinyapps.io/2016_Election/)
+ - 11/15/16: [Election Demographics of 2012 vs. 2016](https://mtdickey.shinyapps.io/2016_Election/)
    ![Election](Politics/2012vs2016Election.PNG)
 
  - 10/28/16: [NFL QB/Receiver Yardage Distributions (R):](http://rpubs.com/mtdickey/QB-WR-Yardage)
