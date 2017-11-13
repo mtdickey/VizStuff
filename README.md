@@ -2,8 +2,10 @@
 A Gallery of Miscellaneous Visualizations (but mostly sports stuff)
 
 Data visualizations of anything I can get my hands on.
- - 11/13/17: [Top Jeopardy! Competitors](https://thejeopardyfan.com/statistics/ultra-champs-10-game-winners)
+ - 11/13/17: [Top Jeopardy! Competitors](https://thejeopardyfan.com/statistics/ultra-champs-10-game-winners)  -- Austin Rogers off to a better start than Ken Jennings!
    ![Jeopardy!](Jeopardy!.PNG)
+   But Ken just kept going and going...
+   ![Ken Jeopardy!](Jeopardy!Ken.PNG)
 
  - 11/15/16: [Election Demographics of 2012 vs. 2016](https://mtdickey.shinyapps.io/2016_Election/)
    ![Election](Politics/2012vs2016Election.PNG)
