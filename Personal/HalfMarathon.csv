@@ -1,0 +1,449 @@
+Bib,##,Name,G,Age,City State,Time,Event,St,art
+586,1,Andrew Rogers,M,22,Alexandria VA,1:25:42,Half,8,AM
+352,2,Matthew Howland,M,31,Washington DC,1:27:42,Half,8,AM
+219,3,Alexander Culiuc,M,40,Chevy Chase MD,1:31:42,Half,8,AM
+662,4,Kyle Adam Ross Thornburgh,M,25,Arlington VA,1:32:00,Half,8,AM
+713,5,Dennis Wischmeier,M,41,Woodbridge VA,1:34:27,Half,8,AM
+237,6,Michael Dickey,M,24,Arlington VA,1:37:46,Half,8,AM
+598,7,Gerardo Eugenio Sanchez Nava,M,28,Fairfax VA,1:40:18,Half,8,AM
+715,8,Daniel Isaac Wolf,M,34,Washington DC,1:40:40,Half,8,AM
+671,9,Mara Elizabeth Tynan,F,22,Westford MA,1:41:07,Half,8,AM
+559,10,Zachary Pyne,M,28,Washington DC,1:41:58,Half,8,AM
+615,11,Stacey Shepherd,F,39,Gainesville VA,1:42:12,Half,8,AM
+695,12,Sandra Wendler,F,51,Laguna Niguel CA,1:42:32,Half,8,AM
+210,13,Jim Cramer,M,41,Washington DC,1:42:50,Half,8,AM
+129,14,George Barker,M,25,Brooklyn NY,1:43:18,Half,8,AM
+131,15,Christopher T. Beck,M,27,Quantico VA,1:44:00,Half,8,AM
+243,16,Clare Hollahan Donahue,F,22,Albuquerque NM,1:44:21,Half,8,AM
+599,17,Robbie Santamorena,M,19,Washington DC,1:45:30,Half,8,AM
+533,18,Jeremy Palmer,M,46,Ashburn VA,1:47:13,Half,8,AM
+296,19,Edward P. H. Ganung,M,31,New York NY,1:48:29,Half,8,AM
+459,20,Simba Marufu,M,26,Washington DC,1:48:34,Half,8,AM
+673,21,Hary George Valentgas,M,22,New York NY,1:49:14,Half,8,AM
+174,22,Jarrhett Butler,M,25,Montgomery Village MD,1:49:22,Half,8,AM
+310,23,Kyle Patrick Griffin,M,26,Arlington VA,1:49:25,Half,8,AM
+264,24,Sean Europe,M,30,Woodbridge VA,1:49:54,Half,8,AM
+569,25,Natalie Rechan,F,18,Montclair NJ,1:50:13,Half,8,AM
+516,26,Daniel Neustadt,M,43,Washington DC,1:50:52,Half,8,AM
+200,27,Alex Conning,M,22,Washington DC,1:51:07,Half,8,AM
+580,28,Drew Robinson,M,31,Ashburn VA,1:53:22,Half,8,AM
+499,29,Jarod Moss,M,36,Ovilla TX,1:53:25,Half,8,AM
+257,30,Charlie O'Brien Englehart,M,41,Arlington VA,1:53:28,Half,8,AM
+104,31,Oswaldo Aguirre,M,33,Washington DC,1:53:28,Half,8,AM
+538,32,Serena Patel,F,25,North Potomac MD,1:53:47,Half,8,AM
+468,33,Rob McDowell,M,59,"Pictou, Nova Scotia CANADA",1:53:47,Half,8,AM
+438,34,Cheryl Denise Logan,F,52,Arlington VA,1:53:53,Half,8,AM
+137,35,Sergey Belousov,M,29,Washington DC,1:53:55,Half,8,AM
+229,36,Mark Edward Dawson,M,23,Madison MS,1:55:22,Half,8,AM
+554,37,Douglas Postels,M,55,Washington DC,1:55:43,Half,8,AM
+451,38,Karan Madhok,M,33,Washington DC,1:55:47,Half,8,AM
+488,39,Joseph Anthony Moda,M,22,Arlington VA,1:55:50,Half,8,AM
+450,40,Karthik Madduri,M,32,Falls Church VA,1:56:00,Half,8,AM
+547,41,Kendra Piercy,F,28,Washington DC,1:56:26,Half,8,AM
+141,42,John Bennett,M,26,Washington DC,1:56:32,Half,8,AM
+272,43,Joe Faustyn,M,23,Raleigh NC,1:56:35,Half,8,AM
+372,44,Frank Jiang,M,23,Arlington VA,1:56:44,Half,8,AM
+378,45,Timothy Johnson,M,32,Watertown MA,1:57:00,Half,8,AM
+299,46,Sheryl Ann Gemmill,F,50,Dallastown PA,1:57:13,Half,8,AM
+629,47,Jeffrey Speir,M,31,Washington DC,1:57:16,Half,8,AM
+643,48,Andrew Quigley Stromberg,M,25,Lutherville MD,1:57:26,Half,8,AM
+437,49,Rebecca Lockhart,F,27,Ashburn VA,1:57:34,Half,8,AM
+339,50,Maddie Hibbs-Magruder,F,21,Neenah WI,1:57:37,Half,8,AM
+256,51,Erin Engel,F,28,Washington DC,1:58:24,Half,8,AM
+642,52,Shelby Stratton,M,52,Alexandria VA,1:58:28,Half,8,AM
+500,53,Rachel Moss,F,35,Ovilla TX,1:59:07,Half,8,AM
+177,54,Keri Camp,F,30,Newton NC,1:59:40,Half,8,AM
+609,55,Nicole Shammo,F,23,Arlington VA,1:59:43,Half,8,AM
+258,56,David Engorn,M,31,Arlington VA,2:00:01,Half,8,AM
+365,57,Marianna Jackson,F,32,Washington DC,2:00:34,Half,8,AM
+375,58,Gregory Johnson,M,27,Washington DC,2:00:37,Half,8,AM
+203,59,Pete Cookson,M,43,Woodbridge VA,2:00:46,Half,8,AM
+684,60,Caitlin vonStein,F,27,Centennial CO,2:00:59,Half,8,AM
+246,61,George Doumar,M,57,Falls Church VA,2:01:03,Half,8,AM
+380,62,Emily Jonsson,F,20,Washington DC,2:01:24,Half,8,AM
+728,63,Jeffrey Zients,M,51,Washington DC,2:01:27,Half,8,AM
+128,64,Bobby W. Baldwin,M,47,Washington DC,2:01:48,Half,8,AM
+425,65,Katherine Leppert,F,26,Eldersburg MD,2:02:13,Half,8,AM
+573,66,Lindsey Reinstrom,F,27,College Park MD,2:02:17,Half,8,AM
+326,67,Daniel Harbison,M,34,Bethesda MD,2:03:25,Half,8,AM
+259,68,Katherine Erdman,F,13,Atlanta GA,2:03:36,Half,8,AM
+583,69,Susan Rodriguez,F,40,Andover MA,2:03:39,Half,8,AM
+316,70,Raja Gudepu,M,38,Chantilly VA,2:03:50,Half,8,AM
+162,71,Philipp Braun,M,57,Gaithersburg MD,2:04:13,Half,8,AM
+557,72,Shelley Puterman,F,56,Washington DC,2:04:19,Half,8,AM
+655,73,Sameer Teegavarapu,M,38,Chantilly VA,2:04:24,Half,8,AM
+132,74,Elizabeth Beck,F,26,Quantico VA,2:04:55,Half,8,AM
+455,75,Elizabeth Marie Marcinkowski,F,18,Washington DC,2:05:25,Half,8,AM
+410,76,Kevin Lasbury,M,37,Boyds MD,2:05:30,Half,8,AM
+484,77,Mervat Mina,F,50,Kensington MD,2:05:43,Half,8,AM
+327,78,Whitney Harbison,F,32,Bethesda MD,2:05:52,Half,8,AM
+454,79,Madeline Marcelle,F,23,Kensington MD,2:06:20,Half,8,AM
+449,80,Brenton Maddox,M,30,Washington DC,2:06:48,Half,8,AM
+616,81,Kristen Shook,F,35,Durham NC,2:07:09,Half,8,AM
+568,82,Elsie Raymer,F,27,Madison WI,2:07:11,Half,8,AM
+377,83,Mark A. Johnson,M,60,Herndon VA,2:07:28,Half,8,AM
+664,84,Jara Title,F,25,Baltimore MD,2:07:35,Half,8,AM
+269,85,Steven M. Farina,M,51,Washington DC,2:08:02,Half,8,AM
+342,86,Mika Hirotsune,F,59,Herndon VA,2:08:16,Half,8,AM
+226,87,Siobhan Dannaher,F,31,Arlington VA,2:09:08,Half,8,AM
+359,88,Elizabeth Hutchinson,F,38,Portland OR,2:09:21,Half,8,AM
+233,89,Dale Delahay,M,52,Loveville MD,2:09:30,Half,8,AM
+345,90,Damon Holmes,M,41,Fort Washington MD,2:10:06,Half,8,AM
+329,91,Joanna Hathaway,F,44,San Francisco CA,2:10:14,Half,8,AM
+534,92,Brandon Pang,M,22,Washington DC,2:10:30,Half,8,AM
+153,93,Ian Bollag-Miller,M,22,Washington DC,1:10:30,Half,9,AM
+193,94,Michal Clayton,F,23,Washington DC,1:10:33,Half,9,AM
+335,95,Christopher Michael Hemrick,M,46,Fairfax VA,2:10:41,Half,8,AM
+660,96,Carrington V. Thomson,M,54,Arlington VA,2:10:43,Half,8,AM
+562,97,Monica Radtke,F,42,Arlington VA,2:10:51,Half,8,AM
+659,98,Randy Thompson,M,59,Sterling Heights MI,2:10:54,Half,8,AM
+590,99,Stephanie Rubin,F,23,Durham NC,2:10:56,Half,8,AM
+251,100,Eric Eichelberger,M,31,Arlington VA,2:11:59,Half,8,AM
+222,101,Julian Curiel,M,26,Winston-Salem NC,2:12:06,Half,8,AM
+477,102,Daniel John Meakem,M,18,McLean VA,2:12:14,Half,8,AM
+694,103,Katarina Weir,F,36,Washington DC,2:12:19,Half,8,AM
+507,104,Paul Murskov,M,31,Old Bridge NJ,2:12:22,Half,8,AM
+668,105,Julie Trompeter,F,51,Tecumseh MI,2:12:26,Half,8,AM
+624,106,Collin Brendlinger Smith,M,26,New Hope PA,2:12:30,Half,8,AM
+348,107,Raymond C. Horner,M,60,Potomac Falls VA,2:12:33,Half,8,AM
+156,108,William Michael Bond,M,62,New York NY,1:13:13,Half,9,AM
+412,109,Melina Lau,F,19,Arlington VA,2:13:43,Half,8,AM
+504,110,Amanda Murray,F,28,New York NY,2:14:20,Half,8,AM
+541,111,Alexa Simone Perlmutter,F,19,Chevy Chase MD,2:14:22,Half,8,AM
+183,112,Steven Robert Chen,M,28,Washington DC,2:14:37,Half,8,AM
+420,113,Jon Legarza,M,48,Wilsonville OR,2:15:11,Half,8,AM
+302,114,Mallory Michelle Giger,F,22,Arlington VA,2:16:02,Half,8,AM
+178,115,Kevin Camp,M,34,Newton NC,2:16:25,Half,8,AM
+300,116,Dana Gershon,F,48,Bethesda MD,2:16:34,Half,8,AM
+544,117,Jonah Pesner,M,49,Bethesda MD,2:16:36,Half,8,AM
+303,118,Harris Gofstein,M,40,Ellicott City MD,2:18:31,Half,8,AM
+116,119,Iris V. Arrazola,F,18,Annandale VA,2:19:37,Half,8,AM
+390,120,Jennifer Kelso,F,25,Washington DC,2:20:25,Half,8,AM
+719,121,Dennis Woo,M,35,Gaithersburg MD,2:21:02,Half,8,AM
+260,122,Steve Erdman,M,53,Atlanta GA,2:21:15,Half,8,AM
+421,123,Shawna Legarza,F,47,Alexandria VA,2:22:00,Half,8,AM
+155,124,Whitney Bond,F,23,Ovilla TX,2:22:05,Half,8,AM
+520,125,Andrew Nguyen,M,30,Alexandria VA,2:22:27,Half,8,AM
+700,126,Patrick Wheeler,M,33,Alexandria VA,1:23:04,Half,9,AM
+353,127,Andy Hoy,M,25,Rockville MD,2:23:15,Half,8,AM
+143,128,Lara Berlin,F,32,Washington DC,2:23:33,Half,8,AM
+163,129,Rachel Brenke,F,33,Fredericksburg VA,2:23:37,Half,8,AM
+703,130,Brandon White,M,27,Upper Marlboro MD,1:24:12,Half,9,AM
+558,131,Kelsea Pym,F,26,Washington DC,2:24:31,Half,8,AM
+457,132,Avee-Dominique Martineau,F,33,Fairways Maraval Trinidad & Tobago,2:24:36,Half,8,AM
+458,133,Danielle Martineau,F,38,New York NY,2:24:39,Half,8,AM
+268,134,Eileen Farao,F,39,Arlington VA,1:25:05,Half,9,AM
+118,135,Silvia Ascasíbar,F,47,Madrid SPAIN,2:25:27,Half,8,AM
+506,136,Jeanne Murray,F,55,Durham NC,2:25:47,Half,8,AM
+505,137,Claire Murray,F,24,Atlanta GA,2:25:49,Half,8,AM
+611,138,Jane Laeger Shapero,F,63,Bangor ME,2:25:54,Half,8,AM
+612,139,Mara Nadia Shapero,F,29,Boca Raton FL,2:25:56,Half,8,AM
+647,140,Justin Sunga,M,30,Springfield VA,2:25:58,Half,8,AM
+613,141,Paul Alan Shapero,M,71,Bangor ME,2:26:07,Half,8,AM
+553,142,Walter Dennis Porzel,M,69,Falls Church VA,2:26:10,Half,8,AM
+501,143,Isabella Moylan,F,23,Washington DC,2:26:13,Half,8,AM
+442,144,Edwin Lozano,M,38,Manassas VA,2:26:27,Half,8,AM
+291,145,Andreas Joseph Galliker,M,51,Gaithersburg MD,2:27:03,Half,8,AM
+508,146,Pete J. Muscarella,M,38,Chicago IL,2:27:18,Half,8,AM
+102,147,Ethan Abensohn,M,32,Reston VA,1:27:41,Half,9,AM
+404,148,Ankit Kumar,M,27,Beltsville MD,1:28:21,Half,9,AM
+681,149,Matthew Villemain,M,29,Washington DC,1:28:25,Half,9,AM
+646,150,Taylor Summit,F,25,Newburyport MA,2:29:05,Half,8,AM
+435,151,Clare Lloyd,F,28,New York NY,2:29:05,Half,8,AM
+714,152,Scott Wohlander,M,48,Vienna VA,2:29:35,Half,8,AM
+402,153,Arvind Krishnan,M,26,Washington DC,2:29:59,Half,8,AM
+452,154,Haley Mahat,F,24,Alexandria VA,2:30:12,Half,8,AM
+502,155,John Murdoch,M,28,Newtown Square PA,2:30:12,Half,8,AM
+244,156,Laura Dormans,F,28,Alexandria VA,2:30:15,Half,8,AM
+195,157,Judith Codding,F,47,Arlington VA,2:30:15,Half,8,AM
+199,158,William J. Conner,M,44,Alexandria VA,2:30:17,Half,8,AM
+202,159,Kristen Constantine,F,29,Brick NJ,2:30:20,Half,8,AM
+725,160,Lily Zhang,F,23,Washington DC,2:30:48,Half,8,AM
+119,161,Guinevere Everidge,F,24,Portland OR,2:30:57,Half,8,AM
+379,162,Thomas W. Jones,M,52,Grafton OH,2:30:59,Half,8,AM
+336,163,Chandler Henkes,F,22,Dallas TX,2:31:22,Half,8,AM
+230,164,Antoine de Malartic,M,40,Bethesda MD,1:31:27,Half,9,AM
+338,165,Seth Herman,M,44,Mableton GA,2:32:42,Half,8,AM
+180,166,Brandon Grodnitzky,M,42,Bala Cynwyd PA,2:32:48,Half,8,AM
+740,167,Charlie Ho,M,53,McLean VA,2:32:48,Half,8,AM
+405,168,Craig Kundrot,M,57,Bethesda MD,2:33:04,Half,8,AM
+542,169,Mariah Maslow Perry,F,25,Arlington VA,2:33:19,Half,8,AM
+318,170,Haidar Alaa Haidari,M,25,McLean VA,2:33:25,Half,8,AM
+308,171,Francy Elena Green,F,41,Lorton VA,2:34:10,Half,8,AM
+366,172,Mark Jackson,M,29,Annandale VA,2:34:42,Half,8,AM
+140,173,Mary Elizabeth Benko,F,30,Gaithersburg MD,2:34:45,Half,8,AM
+572,174,Katia Reinert,F,46,Laurel MD,2:35:20,Half,8,AM
+548,175,Demi Pietri,F,21,Rockville MD,2:35:52,Half,8,AM
+114,176,Pamela Appelbaum,F,53,Rockville MD,2:36:03,Half,8,AM
+487,177,Marissa Mizroch,F,23,Washington DC,2:36:17,Half,8,AM
+152,178,Alexandria Boling,F,28,Washington DC,2:36:32,Half,8,AM
+441,179,Ivy Love,F,30,Washington DC,2:36:40,Half,8,AM
+738,180,Shirley Zhao,F,28,Vienna VA,2:37:35,Half,8,AM
+595,181,Joseph Ryerson Salerno,M,23,Washington DC,1:37:35,Half,9,AM
+371,182,Carrie Jensen,F,28,Blacksburg VA,1:37:41,Half,9,AM
+550,183,Wendy Ponvert,F,56,Potomac MD,2:37:50,Half,8,AM
+313,184,Mark Grindy,M,30,Minneapolis MN,1:37:52,Half,9,AM
+370,185,Nikki Javurek,F,31,Madison WI,2:37:58,Half,8,AM
+614,186,Chandan Sharma,M,29,Washington DC,2:38:51,Half,8,AM
+304,187,Susan Lynn Gonzalez,F,48,Woodbridge VA,2:39:20,Half,8,AM
+495,188,Geoff Morrison,M,38,Washington DC,1:39:33,Half,9,AM
+165,189,Emily Louise Brown,F,33,Madison WI,2:40:41,Half,8,AM
+467,190,Jeremiah McCoy,M,32,Alexandria VA,1:41:30,Half,9,AM
+148,191,Summer H. Bisharat,F,34,North Chesterfield VA,1:42:00,Half,9,AM
+649,192,Gabe Tabak,M,33,Washington DC,1:42:24,Half,9,AM
+101,193,Scott Abbott,M,36,Washington DC,1:42:57,Half,9,AM
+161,194,Jordan F. Bratt,M,31,Stafford VA,2:43:22,Half,8,AM
+354,195,Xinlan Hu,F,22,Washington DC,2:43:25,Half,8,AM
+295,196,Robert Gancarz,M,60,Bedford NH,1:43:30,Half,9,AM
+364,197,Katheryn Jackson,F,26,Annandale VA,2:44:31,Half,8,AM
+394,198,Justin Kirk,M,27,Silver Spring MD,1:45:15,Half,9,AM
+527,199,Kiera Olson,F,23,Chapel Hill NC,2:45:22,Half,8,AM
+688,200,Connie Wang,F,25,New York NY,2:45:47,Half,8,AM
+480,201,Mara Metroka,F,26,Washington DC,2:46:46,Half,8,AM
+674,202,Christopher W. Valles,M,25,Arlington VA,1:46:46,Half,9,AM
+347,203,Christina Horner,F,26,Arlington VA,2:46:48,Half,8,AM
+167,204,Tracy Brown,F,36,Hagerstown MD,1:46:51,Half,9,AM
+266,205,Seth Clark Everitt,M,33,Washington DC,2:46:53,Half,8,AM
+320,206,Samuel Gilbert Hall,M,34,Washington DC,1:47:18,Half,9,AM
+191,207,Kimberly Clark,F,26,Silver Spring MD,1:47:45,Half,9,AM
+522,208,Ryan Nickel,M,34,Washington DC,1:48:46,Half,9,AM
+618,209,Nabin Shrestha,M,40,Silver Spring MD,1:49:02,Half,9,AM
+440,210,Kristina L. Longe,F,28,Falls Church VA,2:49:41,Half,8,AM
+136,211,Karoly Beke,M,36,Budapest HUNGARY,1:49:59,Half,9,AM
+672,212,Emely Umana,F,25,Centreville VA,2:50:38,Half,8,AM
+482,213,Lindsay Ara Miars,F,29,Washington DC,2:51:02,Half,8,AM
+549,214,Rajeev Poluri,M,46,Arcola VA,2:51:09,Half,8,AM
+621,215,Michael Sliwka,M,34,Cleveland OH,1:51:28,Half,9,AM
+225,216,Ravi Dankanikote,M,50,Chantilly VA,2:51:37,Half,8,AM
+277,217,Cian Fields,M,25,Washington DC,1:51:40,Half,9,AM
+594,218,Colt Salerno,M,18,Atlanta GA,1:52:00,Half,9,AM
+417,219,Mary Leahy,F,50,North Potomac MD,2:52:07,Half,8,AM
+602,220,Mike Sawyer,M,46,Raleigh NC,2:52:14,Half,8,AM
+360,221,John Hysong,M,70,Scottsdale AZ,2:53:12,Half,8,AM
+361,222,Phyllis Hysong,F,64,Scottsdale AZ,2:53:15,Half,8,AM
+358,223,Colleen Hurtubise,F,27,Baltimore MD,1:53:33,Half,9,AM
+401,224,Tess Maria Krasne,F,23,Washington DC,1:53:36,Half,9,AM
+121,225,Stephen Austin,M,56,Ashburn VA,2:53:39,Half,8,AM
+166,226,Jeffrey Brown,M,56,Marietta GA,1:53:49,Half,9,AM
+724,227,Elizabeth Zgoda,F,37,Washington DC,2:54:30,Half,8,AM
+656,228,Brian C. Tefft,M,37,Washington DC,2:54:34,Half,8,AM
+228,229,Jonathan Davis,M,42,Washington DC,1:55:28,Half,9,AM
+481,230,Shannon Metzler,F,32,Lancaster PA,1:55:35,Half,9,AM
+493,231,Sean Moran,M,26,Washington DC,1:55:39,Half,9,AM
+489,232,Geiti Mojadidi,F,38,Woodbridge VI,2:56:10,Half,8,AM
+570,233,Tristan Reed,M,31,Brooklyn NY,2:56:33,Half,8,AM
+518,234,Colleen Elizabeth Newell,F,25,Washington DC,1:56:36,Half,9,AM
+517,235,Bruce Newell,M,61,Yakima WA,1:56:36,Half,9,AM
+330,236,Alexandra Haworth,F,34,San Francisco CA,1:58:02,Half,9,AM
+350,237,"Mark Nathan Hosmer, Jr.",M,16,Arlington VA,1:58:08,Half,9,AM
+472,238,Hannah McGlaughn,F,28,Silver Spring MD,1:59:06,Half,9,AM
+164,239,David S. Brown,M,60,Niskayuna NY,1:59:46,Half,9,AM
+640,240,Glenn P. Stouffer,M,54,Viera FL,2:59:51,Half,8,AM
+190,241,Rosalie Cicchinelli,F,23,Arlington VA,3:00:00,Half,8,AM
+635,242,Elizabeth Stevenson,F,28,Washington DC,3:00:08,Half,8,AM
+201,243,Elizabeth Constantine,F,37,Waldorf MD,2:00:12,Half,9,AM
+305,244,Kirk Gordon,M,62,Glenn Dale MD,2:00:41,Half,9,AM
+312,245,Donna Grimm,F,41,San Diego CA,2:00:47,Half,9,AM
+426,246,Brian Leventhal,M,35,Washington DC,2:01:18,Half,9,AM
+479,247,Catherine Mehrtens,F,27,Fairfax VA,3:01:30,Half,8,AM
+196,248,Alison Cohen,F,29,Baltimore MD,2:01:40,Half,9,AM
+212,249,Katherine Crook,F,39,Charleston SC,2:01:54,Half,9,AM
+683,250,Brian Viskupic,M,45,Falls Church VA,2:02:25,Half,9,AM
+368,251,Michael Justin Janinek,M,26,Harrisburg PA,2:02:39,Half,9,AM
+587,252,Abby Ross,F,67,Key Biscayne FL,3:03:21,Half,8,AM
+337,253,John Henson,M,38,Jacksonville FL,3:05:08,Full,8,AM
+600,254,Jariel Santos,M,19,Arlington VA,2:05:52,Half,9,AM
+406,255,Erica Kundrot,F,25,Seabrook TX,3:06:35,Half,8,AM
+346,256,Julie Hong,F,24,Woodstock MD,3:07:04,Half,8,AM
+127,257,Emma Baker,F,24,Ebensburg PA,3:07:12,Half,8,AM
+307,258,Maggie Grandon,F,32,Washington DC,2:09:03,Half,9,AM
+242,259,Ryan Doliner,M,28,New York NY,3:10:01,Half,8,AM
+427,260,Xan Lewis,M,34,San Francisco CA,2:11:12,Half,9,AM
+716,261,Philip Wolf,M,38,St. Anthony IN,3:11:45,Full,8,AM
+315,262,Tyler Grosskopf,F,23,Manassas VA,2:11:56,Half,9,AM
+293,263,Lauren Gancarz,F,29,Goffstown NH,2:13:08,Half,9,AM
+135,264,Elizabeth Beckman,F,30,Arlington VA,2:13:19,Half,9,AM
+474,265,Macie McKitrick,F,20,Bethel Park PA,2:13:19,Half,9,AM
+731,266,Sarah Zwick,F,45,Portland OR,3:13:52,Half,8,AM
+284,267,Brandon Folio,M,22,Riva MD,3:14:01,Full,8,AM
+322,268,Olivia Hamilton,F,25,Birmingham AL,2:15:23,Half,9,AM
+142,269,Regan Bercher,F,25,Atlanta GA,2:15:27,Half,9,AM
+334,270,Emily Helstowski,F,30,Arlington VA,3:15:41,Half,8,AM
+207,271,Elizabeth Costello,F,26,Washington DC,2:17:09,Half,9,AM
+209,272,Brandon C. Craddock,M,41,Washington DC,2:17:14,Half,9,AM
+182,273,Nicole Chambers,F,35,Atlanta GA,2:17:21,Half,9,AM
+323,274,Sheila Hammond,F,32,Washington DC,3:17:38,Half,8,AM
+463,275,Alison McAfee,F,40,Alexandria VA,2:17:48,Half,9,AM
+591,276,Scott Rudlosky,M,36,Greenbelt MD,2:17:51,Half,9,AM
+106,277,Abigail Aker,F,28,Washington DC,3:17:58,Full,8,AM
+133,278,Richard P. Becker,M,59,North Bergen NJ,3:20:10,Half,8,AM
+297,279,George Christopher Gardes,M,49,McLean VA,3:20:14,Full,8,AM
+181,280,Karla Chaman,F,45,Burke VA,2:20:48,Half,9,AM
+231,281,Debbie DeChambeau,F,59,Montgomery Village MD,3:20:51,Half,8,AM
+415,282,Anna Lavrentieva,F,20,North Potomac MD,2:22:20,Half,9,AM
+367,283,Aaron Jacob,M,34,Silver Spring MD,2:22:27,Half,9,AM
+267,284,Tom Everitt,M,71,Kansas City MO,3:23:12,Half,8,AM
+739,285,Bryan Sheedy,M,42,"Corbally, Limerick IRELAND",3:23:24,Full,8,AM
+473,286,Jacob McGlaughn,M,27,Silver Spring MD,2:24:25,Half,9,AM
+603,287,Jessica Schavone,F,34,Grafton MA,2:25:21,Half,9,AM
+290,288,Chencheng Qiu,M,45,Potomac MD,3:25:24,Full,8,AM
+252,289,Rebekah Eklund,M,42,Baltimore MD,2:26:17,Half,9,AM
+317,290,Zoe Guengerich,F,25,Chicago IL,2:26:29,Half,9,AM
+175,291,Melissa Butler,F,25,Newport News VA,2:26:36,Half,9,AM
+206,292,Claire Alexandra Cortes,F,27,Midlothian VA,2:27:30,Half,9,AM
+589,293,John Rowley,M,27,Alexandria VA,2:27:43,Half,9,AM
+134,294,Susie Becker,F,59,North Bergen NJ,3:28:54,Half,8,AM
+654,295,Cynthia Z. Taylor,F,59,Blue Grass IA,2:28:58,Half,9,AM
+117,296,Kevin F. Arthur,M,59,Baltimore MD,2:29:24,Half,9,AM
+663,297,Ryan Tippets,M,31,Fort Belvoir VA,3:29:41,Full,8,AM
+416,298,Oana Leahu-Aluas,F,29,Washington DC,2:30:06,Half,9,AM
+349,299,Mark Hosmer,M,49,Arlington VA,2:31:37,Half,9,AM
+619,300,Niwashin Shrestha,F,34,Silver Spring MD,2:31:43,Half,9,AM
+282,301,Katie Flanagan,F,30,McLean VA,2:32:16,Half,9,AM
+710,302,Courtney Wilson,F,23,Roanoke VA,2:32:41,Half,9,AM
+593,303,Leticia Salazar,F,38,Washington DC,2:36:17,Half,9,AM
+634,304,Anna Stallings,F,15,Chevy Chase MD,3:36:26,Half,8,AM
+238,305,Amanda R. Didawick,F,22,Arlington VA,2:36:33,Half,9,AM
+492,306,Samuel Moore,M,24,Millersville MD,3:36:36,Full,8,AM
+524,307,Charlie Nobles,M,58,Raleigh NC,2:36:58,Half,9,AM
+525,308,Meleta Nobles,F,55,Raleigh NC,2:36:58,Half,9,AM
+652,309,William Tarkenton,M,24,Arlington VA,2:37:03,Half,9,AM
+551,310,Joshua Pool,M,33,Stuarts Draft VA,3:37:41,Full,8,AM
+665,311,Loretta B. Tolliver,F,56,Springfield VA,3:39:03,Half,8,AM
+395,312,Kati Kirsch,F,18,Rockville MD,3:39:51,Full,8,AM
+278,313,Melissa Fischels,F,38,Washington DC,2:41:01,Half,9,AM
+281,314,Valerie Fitton-Kane,F,39,Washington DC,3:41:50,Half,8,AM
+469,315,Gina McFarland,F,28,Hagerstown MD,3:42:32,Full,8,AM
+111,316,Marissa Amodeo,F,19,Annapolis MD,2:42:32,Half,9,AM
+679,317,Maria Cristina Vila,F,45,Washington DC,3:42:40,Half,8,AM
+105,318,Youcef Ahmim,M,56,McLean VA,3:43:18,Full,8,AM
+333,319,Lori Heath,F,54,Issaquah WA,2:47:00,Half,9,AM
+383,320,Sarma B. Josyula,M,47,Chantilly VA,3:49:30,Half,8,AM
+411,321,Kevin Latone,M,38,Severna Park MD,3:50:44,Full,8,AM
+491,322,Conrad Montiel,M,38,Oceanside CA,3:50:48,Full,8,AM
+389,323,Caroline G. Kelly,F,22,Chapel Hill NC,3:51:18,Full,8,AM
+294,324,Nancy Gancarz,F,58,Bedford NH,2:52:31,Half,9,AM
+513,325,Emily McKallor Navyac,F,40,Idlewylde MD,3:52:54,Full,8,AM
+644,326,Arunkumar Subramanian,M,40,Boyds MD,3:53:17,Full,8,AM
+563,327,Vadivel Ramasamy,M,40,Boyds MD,3:53:19,Full,8,AM
+239,328,Dimana Dimitrova,F,32,Bethesda MD,2:54:44,Half,9,AM
+392,329,Adam Kiely,M,51,Gaithersburg MD,3:56:30,Full,8,AM
+418,330,Olivia LeBeau,F,23,Bethesda MD,3:56:34,Full,8,AM
+343,331,Robert P. Hoff,M,22,Rockville MD,3:58:17,Full,8,AM
+733,332,Chuck Engle,M,47,Arlington VA,2:58:56,Full,9,AM
+692,333,Josephine Weeden,F,49,Adrian MI,3:59:16,Full,8,AM
+510,334,Michael Jay Myers,M,57,Glen Burnie MD,3:59:50,Full,8,AM
+575,335,Yinon Reiss,M,31,Washington DC,4:01:56,Full,8,AM
+677,336,Rodrigo Vellon Garcia,M,28,Falls Church VA,3:04:42,Full,9,AM
+514,337,Jamie Neidig-Wheaton,F,44,Ashburn VA,3:05:13,Half,9,AM
+717,338,Theresa A. Wolters,F,39,Washington DC,4:05:35,Full,8,AM
+447,339,Matthew Dowd MacVicar,M,37,Falls Church VA,4:11:32,Full,8,AM
+249,340,Kristen Eaves,F,32,Plainview TX,3:12:08,Full,9,AM
+519,341,Ronald Newhart,M,62,Lebanon PA,4:13:58,Full,8,AM
+540,342,Matthew John Perkins,M,39,Washington DC,3:14:15,Full,9,AM
+564,343,Eric Rasche,M,41,Jasper IN,4:14:32,Full,8,AM
+221,344,Kevin Cunningham,M,40,McLean VA,4:14:39,Full,8,AM
+571,345,Kevin A. Reilly,M,43,Alexandria VA,3:14:44,Half,9,AM
+545,346,Anna Phares,F,21,Chapel Hill NC,4:15:45,Full,8,AM
+515,347,Emma Kathryn Nemeth,F,26,Harrisburg PA,3:17:22,Full,9,AM
+113,348,Diana Angstadt,F,37,Burke VA,4:18:51,Full,8,AM
+382,349,Megan Mae Joseph,F,34,Arlington VA,4:19:27,Full,8,AM
+701,350,Anna Sophia Whelchel,F,22,Chapel Hill NC,4:19:55,Full,8,AM
+247,351,Abigail Ann Drees,F,22,Chapel Hill NC,4:20:05,Full,8,AM
+497,352,Emily Morse,F,41,Warrenton VA,4:20:21,Full,8,AM
+530,353,Karen Julissa Orozco,F,24,Ashburn VA,4:20:57,Full,8,AM
+708,354,Cardell Williams,M,57,Laurel MD,4:21:19,Full,8,AM
+194,355,Andrew Clinkman,M,29,New York NY,3:22:15,Full,9,AM
+650,356,Koji Takeuchi,M,61,Rockville MD,4:24:09,Full,8,AM
+275,357,Matthew Frank Ferro,M,23,Austin TX,3:24:48,Full,9,AM
+556,358,Curtis Allen Puechl,M,33,Raleigh NC,4:24:54,Full,8,AM
+109,359,Caitlin Alexander,F,26,Rockville MD,4:25:02,Full,8,AM
+309,360,Kristen Gregory,F,26,New York NY,4:25:35,Full,8,AM
+607,361,Emy Shadid,F,34,Washington DC,4:26:44,Full,8,AM
+250,362,Samantha Jean Eckstein,F,23,Mars PA,4:27:43,Full,8,AM
+120,363,Gregory Ashe,M,51,Potomac MD,3:27:46,Full,9,AM
+428,364,Gina Lewis-Price,F,56,Fairfax VA,3:28:15,Half,9,AM
+696,365,Julia Werth,F,23,Reading MA,4:28:41,Full,8,AM
+241,366,Jennifer Dolan,F,47,Chesapeake Beach MD,4:29:20,Full,8,AM
+610,367,Kaitlyn R. Shank,F,28,Hummelstown PA,3:31:34,Full,9,AM
+486,368,Mia Mitchell,F,29,Arlington VA,4:31:40,Full,8,AM
+531,369,Emily Otterbacher,F,37,Annapolis MD,4:31:55,Full,8,AM
+666,370,Boyd Tomasetti,M,47,Arlington VA,3:31:59,Full,9,AM
+198,371,David Colman,M,32,Arlington VA,3:32:03,Full,9,AM
+288,372,Jeff Franz,M,24,Arlington VA,3:34:49,Full,9,AM
+661,373,Gail Thomson,F,65,Raleigh NC,4:35:37,Full,8,AM
+168,374,Kim Bruno,F,45,Charlotte NC,4:35:46,Full,8,AM
+273,375,Zachary Thomas Fernandes,M,24,Arlington VA,3:36:15,Full,9,AM
+560,376,Josh Rachel,M,30,Alexandria VA,4:37:03,Full,8,AM
+723,377,Wendy Young,F,42,Severna park MD,4:37:53,Full,8,AM
+270,378,Marissa Farina-Morse,F,40,Fairfax Station VA,4:38:12,Full,8,AM
+289,379,Deborah Freedberg,F,56,Portland OR,4:38:47,Full,8,AM
+658,380,Katherine Thompson,F,50,Chesapeake Beach MD,4:39:36,Full,8,AM
+403,381,Tia Shirley Kucera,F,30,Albuquerque NM,3:40:40,Full,9,AM
+184,382,Preston M. Cherouny,M,52,Washington DC,4:41:33,Full,8,AM
+638,383,Alex Howell Stoddard,M,57,Washington DC,4:42:20,Full,8,AM
+384,384,Nathaniel B. Kahler,M,29,Washington DC,3:42:46,Full,9,AM
+287,385,Shannon Francis,F,43,Arlington VA,3:44:59,Full,9,AM
+386,386,Nathan Samuel Kaplan,M,18,North Potomac MD,3:46:23,Full,9,AM
+626,387,Deb Sneath,F,47,Gainesville VA,4:47:11,Full,8,AM
+144,388,William Bernier,M,42,Springfield VA,3:47:11,Full,9,AM
+490,389,John Mollica,M,54,Martinsburg WV,4:47:31,Full,8,AM
+214,390,Travis Crouse,M,32,Columbia MD,3:50:36,Half,9,AM
+376,391,Kevin Johnson,M,40,Bethesda MD,4:51:14,Full,8,AM
+685,392,Hai Vuong,M,45,Chevy Chase MD,3:51:48,Full,9,AM
+240,393,Joshua Dodd,M,33,Jasper IN,4:53:04,Full,8,AM
+702,394,Elizabeth Whiston-Dean,F,50,Harrisonburg VA,4:53:09,Full,8,AM
+460,395,Tammy Jeanne Massie,F,46,Gaithersburg MD,4:53:14,Full,8,AM
+373,396,Brendan John,M,28,Washington DC,4:55:15,Full,8,AM
+325,397,Michael William Creadon,M,50,Arlington VA,3:55:38,Full,9,AM
+355,398,Patrick Mark Hubbard,M,23,Washington DC,3:58:17,Full,9,AM
+279,399,Jenna Fisher,F,33,Charlotte NC,3:59:05,Full,9,AM
+735,400,Kate Spangler,F,32,Richmond VA,3:59:13,Full,9,AM
+433,401,Olga Livingston,F,39,Vienna VA,5:02:28,Full,8,AM
+321,402,Michael Halmon,M,55,Waldorf MD,5:04:11,Full,8,AM
+265,403,Regina Stallone Evans,F,53,Manassas VA,5:04:18,Full,8,AM
+123,404,Ashley Ann Badgley,F,29,Washington DC,5:04:37,Full,8,AM
+138,405,Alan Benedict,M,55,Gaithersburg MD,5:05:41,Full,8,AM
+235,406,Frank Vincent DeRocco,M,42,Springfield VA,4:06:11,Full,9,AM
+236,407,Sergio Diaz,M,39,Washington DC,5:06:47,Full,8,AM
+430,408,Benjamin Sanders Little,M,18,Easton MD,4:09:31,Full,9,AM
+574,409,Maureen Reiser,F,25,Glenn Dale MD,5:12:54,Full,8,AM
+205,410,Sarah Cordle,F,32,North Charleston SC,4:13:30,Full,9,AM
+494,411,Lauren Morgan,F,32,Crofton MD,5:15:35,Full,8,AM
+604,412,Sheila Scholl,F,55,McLean VA,5:18:43,Full,8,AM
+565,413,William Ratcliff,M,42,Gaithersburg MD,5:20:00,Full,8,AM
+234,414,Liqiong Deng,F,39,Oakton VA,5:20:10,Full,8,AM
+585,415,Pedro A. Rodríguez,M,54,Owings Mills MD,5:26:08,Full,8,AM
+431,416,Dao Hawkins,F,33,Quantico VA,5:28:20,Full,8,AM
+107,417,Sara Nearman,F,43,Stafford VA,5:28:23,Full,8,AM
+732,418,Sally Sauer,F,41,Stafford VA,5:30:26,Full,8,AM
+697,419,Erika West,F,35,Corpus Christi TX,5:30:49,Full,8,AM
+623,420,Ali Smith,F,25,Atlanta GA,5:31:28,Full,8,AM
+262,421,Melissa M. Ertl,F,25,East Greenbush NY,5:32:28,Full,8,AM
+381,422,Edward Joseph,M,26,Menands NY,5:32:31,Full,8,AM
+689,423,Yifei Wang,F,25,Arlington VA,5:33:50,Full,8,AM
+263,424,Roberto Estrella,M,28,Manassas VA,5:35:54,Full,8,AM
+639,425,William Stoddard,M,39,Clinton MD,5:40:23,Full,8,AM
+465,426,Emily Kubicek McAfee,F,25,Alexandria VA,5:44:31,Full,8,AM
+912,427,"Leonard Clark, Jr",M,60,Herndon VA,5:45:17,Full,8,AM
+362,428,Maria Iman-Santoso,F,51,Gaithersburg MD,5:46:32,Full,8,AM
+667,429,Kai Trice,F,32,North Chesterfield VA,4:47:28,Full,9,AM
+675,430,Christopher VanLandingham,M,32,Arlington VA,5:51:03,Full,8,AM
+220,431,Jennifer Cunningham,F,31,Clarksville TN,5:52:21,Full,8,AM
+187,432,Scott Chico,M,31,Bridgewater VA,5:53:34,Full,8,AM
+298,433,Tim Garon,M,37,Arlington VA,5:54:24,Full,8,AM
+306,434,Randolph Gorman,M,37,Suitland MD,4:54:35,Full,9,AM
+445,435,Sonia Maciejewski,F,29,Washington DC,5:54:47,Full,8,AM
+283,436,Nicholas Flores,M,29,Washington DC,5:54:49,Full,8,AM
+170,437,Carlo Buenaventura,M,29,Manassas VA,5:55:33,Full,8,AM
+471,438,Yolanda McGill,F,46,Washington DC,6:07:24,Full,8,AM
+579,439,Shari Shugart,F,49,Alexandria VA,6:19:24,Full,8,AM
+686,440,Bettie Wailes,F,73,Winter Park FL,6:21:37,Full,8,AM
+204,441,Constance Copetas,F,65,Spokane WA,6:28:01,Full,8,AM
+584,442,Cecilia Rodríguez,F,55,Owings Mills MD,6:30:06,Full,8,AM
+567,443,Christopher Ray,M,40,Arlington VA,5:35:27,Full,9,AM
+526,444,Bridget O'Brien,F,26,Washington DC,6:40:11,Full,8,AM
+357,445,Kelly Huiza,F,23,Gaithersburg MD,6:42:24,Full,8,AM
+396,446,Naomi Kniep,F,29,Gaithersburg MD,6:42:30,Full,8,AM
+653,447,Chandra T. Taylor,F,43,Durham NC,6:53:50,Full,8,AM
+461,448,Christine Mativo,F,39,Columbia MD,7:23:37,Full,8,AM
