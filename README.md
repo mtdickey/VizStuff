@@ -2,6 +2,8 @@
 A Gallery of Miscellaneous Visualizations (but mostly sports stuff)
 
 Data visualizations of anything I can get my hands on.
+ - 5/7/18: [2018 Potomac River Run Marathon & Half](http://safetyandhealthfoundation.org/20180506.html) -- My first half marathon, finished with a time of 1:37:46.
+    ![Half Marathon Distributions](Personal/HalfMarathonDistributions.PNG)
  - 3/14/18: [March Madness 2018](https://github.com/mtdickey/Kaggle-March-Madness/tree/master/2018/Mens)
     ![2018 NCAA Bracket](Basketball/NCAARoundByRoundBraketViz2018.PNG)
  - 11/13/17: [Top Jeopardy! Competitors](https://thejeopardyfan.com/statistics/ultra-champs-10-game-winners)  -- Austin Rogers off to a better start than Ken Jennings!
