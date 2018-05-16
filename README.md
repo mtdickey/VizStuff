@@ -24,3 +24,7 @@ Data visualizations of anything I can get my hands on.
  
    [Interactive](https://vida.io/documents/Ya5xhppozDH7Bt97W) - Credit to [PowerRank](http://thepowerrank.com/ncaa-tournament-predictions/) for source
    ![NCAA Bracket](Basketball/march-madness.png)
+
+- 8/20/15: [NBA Shot Chart (Python)](https://twitter.com/mtdickey/status/634557569047089152) - Credit to [Savvas Tjortjoglou](http://savvastjortjoglou.com/nba-shot-sharts.html) for source
+
+  ![NBA Shot Chart](Basketball/KevinLove.jpg_large)
