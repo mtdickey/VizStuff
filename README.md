@@ -2,6 +2,9 @@
 A Gallery of Miscellaneous Visualizations (but mostly sports stuff)
 
 Data visualizations of anything I can get my hands on.
+ - 6/8/19: Jeopardy James vs. Ken Jennings  -- James is king of the big pay days, but falls just short of Ken's all-time earnings record!
+   ![JamesKen_Line](Pop_Culture/2019-06-08_James_H/JamesVsKen_Line.PNG)
+   ![JamesKen_Dist](Pop_Culture/2019-06-08_James_H/JamesVsKen_Dist.PNG)
  - 5/7/18: [2018 Potomac River Run Marathon & Half](http://safetyandhealthfoundation.org/20180506.html) -- My first half marathon, finished with a time of 1:37:46.
     ![Half Marathon Distributions](Personal/HalfMarathonDistributions.PNG)
  - 3/14/18: [March Madness 2018](https://github.com/mtdickey/Kaggle-March-Madness/tree/master/2018/Mens)
