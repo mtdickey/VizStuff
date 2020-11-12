@@ -2,6 +2,8 @@
 A Gallery of Miscellaneous Visualizations (but mostly sports stuff)
 
 Data visualizations of anything I can get my hands on.
+ - 11/12/20: Peloton power zone workout.  Visualizing consistency in holding zones throughout intervals.
+   ![PowerZone](Personal/powerzone_max_ride.png)
  - 6/8/19: Jeopardy James vs. Ken Jennings  -- James is king of the big pay days, but falls just short of Ken's all-time earnings record!
    ![JamesKen_Line](Pop_Culture/2019-06-08_James_H/JamesVsKen_Line.PNG)
    ![JamesKen_Dist](Pop_Culture/2019-06-08_James_H/JamesVsKen_Dist.PNG)
