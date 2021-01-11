@@ -17,7 +17,7 @@ Race/Ethnicity,Black,93,6,1,13
 Race/Ethnicity,Asian,73,26,1,3
 Race/Ethnicity,Other,58,38,4,2
 Race/Ethnicity,Hispanic,71,27,2,10
-Religion,Protestant or other Christian,43,56,1,51
+Religion,ProtestantÂ or other Christian,43,56,1,51
 Religion,Catholic,50,48,2,25
 Religion,Mormon,21,78,1,2
 Religion,Jewish,69,30,1,2
@@ -38,9 +38,9 @@ Age,50-64 years old,47,52,1,28
 Age,65 and older,44,56,0,16
 Sexual orientation,LGBT,76,22,2,5
 Sexual orientation,Heterosexual,49,49,2,95
-Education,Not a high school graduate,64,35,1,3
+Education,Not aÂ high schoolÂ graduate,64,35,1,3
 Education,High school graduate,51,48,1,21
-Education,Some college education,49,48,3,29
+Education,SomeÂ collegeÂ education,49,48,3,29
 Education,College graduate,47,51,2,29
 Education,Postgraduate education,55,42,3,18
 Family income,"Under $30,000",63,35,2,20
