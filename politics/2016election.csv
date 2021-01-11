@@ -22,7 +22,7 @@ Race/Ethnicity,White,37,58,5,70
 Race/Ethnicity,Black,88,8,4,12
 Race/Ethnicity,Asian,65,29,6,4
 Race/Ethnicity,Other,56,37,7,3
-Race/Ethnicity,Hispanic (of any race),65,29,6,11
+Race/Ethnicity,HispanicÂ (of any race),65,29,6,11
 Gender by race/ethnicity,White men,31,63,5,34
 Gender by race/ethnicity,White women,43,53,3,37
 Gender by race/ethnicity,Black men,80,13,6,5
@@ -33,7 +33,7 @@ Gender by race/ethnicity,All other races,61,32,5,6
 Religion,Protestant,37,60,3,27
 Religion,Catholic,45,52,3,23
 Religion,Mormon,25,61,14,1
-Religion,Other Christian,43,55,2,24
+Religion,OtherÂ Christian,43,55,2,24
 Religion,Jewish,71,24,5,3
 Religion,Other religion,58,33,9,7
 Religion,None,68,26,6,15
@@ -53,8 +53,8 @@ Sexual orientation,LGBT,78,14,8,5
 Sexual orientation,Heterosexual,47,48,5,95
 First time voter,First time voter,56,40,4,10
 First time voter,Everyone else,47,47,6,90
-Education,High school or less,45,51,4,18
-Education,Some college education,43,52,5,32
+Education,High schoolÂ or less,45,51,4,18
+Education,SomeÂ collegeÂ education,43,52,5,32
 Education,College graduate,49,45,6,32
 Education,Postgraduate education,58,37,5,18
 Education by race/ethnicity,White college graduates,45,49,4,37
