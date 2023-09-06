@@ -20,7 +20,7 @@ Data visualizations of anything I can get my hands on.
    ![Election](politics/2012vs2016Election.PNG)
 
  - 10/28/16: [NFL QB/Receiver Yardage Distributions (R):](http://rpubs.com/mtdickey/QB-WR-Yardage)
-   ![NFL QB/Receiver Yardage](football/QB-Receiver%20Yard%20Dist/ReceiverDists.PNG)
+   ![NFL QB/Receiver Yardage](football/qb-receiver-yds-dist/ReceiverDists.PNG)
    
  - 10/24/16: [NFL QB/Receiver Tandems (R):](https://www.reddit.com/r/dataisbeautiful/comments/597pa1/nfl_top_qbreceiver_tandems_oc/)
    ![NFL QB/Receiver Tandems](football/tandem-tds/QBTandems.PNG)
