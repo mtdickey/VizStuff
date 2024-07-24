@@ -55,7 +55,9 @@ active_table = dag.AgGrid(
             },
             className='ag-theme-material-dark',
             dashGridOptions={"rowSelection": 'multiple',
-                             "rowMultiSelectWithClick":True}
+                             "rowMultiSelectWithClick":True},
+            persistence=True,
+            persisted_props=['rowData', 'virtualData']
         )
 
 inactive_table = dag.AgGrid(
@@ -69,7 +71,9 @@ inactive_table = dag.AgGrid(
             },
             className='ag-theme-material-dark',
             dashGridOptions={"rowSelection": 'multiple',
-                             "rowMultiSelectWithClick":True}
+                             "rowMultiSelectWithClick":True},
+            persistence=True,
+            persisted_props=['rowData', 'virtualData']
         )
 
 
